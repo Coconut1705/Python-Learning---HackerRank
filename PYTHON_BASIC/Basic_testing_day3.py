@@ -43,4 +43,7 @@ if "Audi" not in cars:
     print("Không có Audi trong danh sách")
 else:
     print("Có Audi trong danh sách")
-    
+
+text = "Con meo keu sao ?"
+print("C" in text)
+print("meo" in text)
